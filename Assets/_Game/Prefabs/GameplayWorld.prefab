@@ -607,7 +607,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284360468
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -1984,7 +1984,7 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4284360468
+    rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
@@ -26202,6 +26202,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: FX_AmbientBubbles_Background
       objectReference: {fileID: 0}
+    - target: {fileID: 2909523706508905768, guid: a14acb8645797a34e840bc874b172e77, type: 3}
+      propertyPath: InitialModule.startSizeY.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2909523706508905768, guid: a14acb8645797a34e840bc874b172e77, type: 3}
+      propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3260029412771915161, guid: a14acb8645797a34e840bc874b172e77, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -26361,6 +26369,14 @@ PrefabInstance:
     - target: {fileID: 1949528092276858705, guid: fe4daec5110032d49ab1bd30a0e4a67e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940531940493791896, guid: fe4daec5110032d49ab1bd30a0e4a67e, type: 3}
+      propertyPath: InitialModule.startSizeY.minMaxState
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940531940493791896, guid: fe4daec5110032d49ab1bd30a0e4a67e, type: 3}
+      propertyPath: InitialModule.startSizeZ.minMaxState
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9076526638892707256, guid: fe4daec5110032d49ab1bd30a0e4a67e, type: 3}
       propertyPath: m_Name
